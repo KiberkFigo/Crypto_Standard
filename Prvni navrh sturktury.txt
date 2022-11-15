@@ -1,0 +1,7 @@
+1) Jednoduše stručně co jsou to kryptoměny
+2) Bezpečnost, HW a SW peneženky
+3) Přehled Burz
+4) Blochchainy
+5) Přehled analyzátorů - coinly
+6) Přehled sledujících nástrojů - coingecko 
+7) Jak nakoupit
